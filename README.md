@@ -70,9 +70,9 @@ Usage
 
 
 Contributors
-Nandhinin T
-Carmal princy A
-Ashiritha S
+Nandhinin T,
+Carmal princy A,
+Ashiritha S,
 Kirthana M
 
 

@@ -1,8 +1,8 @@
 
 
 
-**CRM Application for Handling Clients and Property Requirements**
-
+Project title: **CRM Application for Handling Clients and Property Requirements**
+NM Id : 4224582A19853839BBB4409FBE0BD706
 This project is a CRM (Customer Relationship Management) application aimed at handling clients and their property-related requirements. It integrates Salesforce with Jotform, defines user roles and profiles, automates approval processes for properties, and includes a Lightning Web Component (LWC) for enhanced user interaction.
 
 
